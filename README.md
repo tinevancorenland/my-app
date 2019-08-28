@@ -43,11 +43,6 @@ The results of [Stack Overflow’s annual Developer Survey](https://insights.sta
 - [x] Added React Developer Tools as Google Chrome extension
 - [x] Use [create-react-app](https://github.com/facebook/create-react-app) to generate an application within my folder through the visual studio code terminal : " npx create-react-app note-app-front-end " 
 
-https://www.youtube.com/watch?v=vIA13  0MePY8
-https://scrimba.com/g/glearnreact (course advice Panadda)
-https://www.youtube.com/watch?v=XCCW2y4wXNg
-https://www.youtube.com/watch?v=U9T6YkEDkMo (devEd recipe app)
-
 ### Sprint 2: List page
 When arrive on the main page (note list page), we should see all the differents notes that are in the database.
 
