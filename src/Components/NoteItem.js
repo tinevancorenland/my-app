@@ -4,7 +4,7 @@ export class NoteItem extends Component {
     render () {
         return (
             <div>
-
+                <p>{this.props.note.title}</p>
             </div>
         )
     }
